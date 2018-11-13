@@ -29,4 +29,4 @@ The script will change the current master/develop of sourcetree,according to cur
 ![image](https://github.com/myzero1/show-time/blob/master/gitflow-plus/screenshot/108.png)
 
 # License
-Feel free to use it.
+[MIT](https://github.com/myzero1/gitflow-plus/blob/master/LICENSE)
