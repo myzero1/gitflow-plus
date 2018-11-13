@@ -7,24 +7,12 @@ The script will change the current master/develop of sourcetree,according to cur
 # How To Use
 1.  copy the gitflow-plus-init.sh to repository.eg:cp gitflow-plus-init.sh /path/to/docker-envs/gitflow-plus-init.sh
         ![image](https://github.com/myzero1/show-time/blob/master/gitflow-plus/screenshot/101.png)
-2.  cd /path/to/repository   and run "bash /C/Users/woogle/Desktop/sourcetree_gitflow_Multi-Version-Concurrency.sh"
-        ![image](https://github.com/mywoogle/sourcetree_gitflow_Multi-Version-Concurrency-release/blob/master/image/101.png)
-###OR use sourcetree's custom aciton###
-####Create dourcetree's custom action####
-![image](https://github.com/mywoogle/sourcetree_gitflow_Multi-Version-Concurrency-release/blob/master/image/201.png)
-####Run sourcetree's custom action####
-######action>>custom action>>Multi-Version Concurrency######
-![image](https://github.com/mywoogle/sourcetree_gitflow_Multi-Version-Concurrency-release/blob/master/image/202.png)
 
-3.  add Multiple versions of master in sourcetree,the format as master_version
-    example,master_qq,master_sina
-        ![image](https://github.com/mywoogle/sourcetree_gitflow_Multi-Version-Concurrency-release/blob/master/image/2.png)
-        ![image](https://github.com/mywoogle/sourcetree_gitflow_Multi-Version-Concurrency-release/blob/master/image/3.png)
+2.  add Multiple versions of master in sourcetree,the format as master_version.eg:master_nmp
+        ![image](https://github.com/myzero1/show-time/blob/master/gitflow-plus/screenshot/102.png)
     
-4.  add Multiple versions of develop in sourcetree,the format as develop_version
-    example,develop_qq,develop_sina
-        ![image](https://github.com/mywoogle/sourcetree_gitflow_Multi-Version-Concurrency-release/blob/master/image/4.png)
-        ![image](https://github.com/mywoogle/sourcetree_gitflow_Multi-Version-Concurrency-release/blob/master/image/5.png)
+3.  add Multiple versions of develop in sourcetree,the format as develop_version.eg:develop_nmp
+        ![image](https://github.com/myzero1/show-time/blob/master/gitflow-plus/screenshot/103.png)
     
 5.  add a featue base on curent develop,format:_version_fearurename,example:_qq_feature1
         ![image](https://github.com/mywoogle/sourcetree_gitflow_Multi-Version-Concurrency-release/blob/master/image/6.png)
